@@ -1,4 +1,4 @@
-# vuminh_BIT230262
+# Quang
 
 ## bai_tap_bai_doc_04
 
@@ -42,10 +42,4 @@
 
 ---
 
-## Hình ảnh quá trình test
 
-![Server](images/server_name.png)
-
-![Thread](images/thread_group1.png)
-
-![Summary](images/summary_report.png)
